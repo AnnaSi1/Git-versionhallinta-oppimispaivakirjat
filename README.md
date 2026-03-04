@@ -1,2 +1,2 @@
-# Git-versionhallinnan-oppimisp-iv-kirjat
+# Git-versionhallinnan oppimispäiväkirjat
 Oppimispäiväkirjat
