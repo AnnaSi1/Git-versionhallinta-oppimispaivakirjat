@@ -1,3 +1,4 @@
-# git-oppimispaivakirja
 
-Tämä on kurssin oppimispäiväkirja.
+# Git-versionhallinnan oppimispäiväkirjat
+Oppimispäiväkirjat
+
