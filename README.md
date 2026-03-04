@@ -2,6 +2,7 @@
 
 
 Kurssi: Git-versionhallinta - SOF013AS2A-3002
+
 Tekijä: Anna Silvola
 
 Tässä repositoriossa on oppimispäiväkirjani 1-3.
